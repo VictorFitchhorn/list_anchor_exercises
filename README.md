@@ -14,7 +14,16 @@ $ npm install
 Build the application for the first time...
 
 ```
-$ npm run start
+NOTES to RUN
+$ npm run gitpod
+click Open Preview (if missing click bell icon on bottom right)
+click ctrl + c
+
+NOTES TO UPDATE GIT
+git add .
+git commit -m 'YOUR CHANGES HERE'
+git pull
+git push origin master
 ```
 
 And start coding your Vanilla.js application, update the `src/index.html`, `src/index.scss` or `src/index.js` depending on your needs.
