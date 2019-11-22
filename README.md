@@ -24,6 +24,8 @@ git add .
 git commit -m 'YOUR CHANGES HERE'
 git pull
 git push origin master
+
+Notes for later
 ```
 
 And start coding your Vanilla.js application, update the `src/index.html`, `src/index.scss` or `src/index.js` depending on your needs.
