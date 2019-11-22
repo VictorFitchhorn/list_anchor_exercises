@@ -1,4 +1,5 @@
 # Hello World with Vanilla JS
+### Made by Victor Fitchhorn
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
 
@@ -15,7 +16,7 @@ Build the application for the first time...
 
 ```
 NOTES to RUN
-$ npm run gitpod
+ npm run gitpod
 click Open Preview (if missing click bell icon on bottom right)
 click ctrl + c
 
